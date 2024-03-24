@@ -1,0 +1,29 @@
+Configuration
+==============
+git config
+ctrl+l 
+git config --global user.name "shakir-ahmad"
+git config --global user.email "shakirahmad84@gmail.com"
+git-scm.com                                      > Git Download
+git --version                                    > To chekc Git Version
+git init
+git config --global user.name "shakir-ahmad"
+git config --global user.email "shakirahmad84@gmail.com"
+git config user.name "shakir-ahmad"
+git config user.email "shakirahmad84@gmail.com"
+git config user.name
+git config user.email
+git status
+git add filename.txt
+
+pwd
+ls
+cd Desktop/
+ls -a
+mkdir notes
+cd notes
+touch day1.txt
+open day1.txt
+git status
+git init
+
