@@ -18,4 +18,5 @@ git add filename.txt
 git add --all
 git add .
 git commit -m "Comment Will Goes Here"
-
+git log
+git log --oneline
