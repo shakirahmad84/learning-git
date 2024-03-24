@@ -1,0 +1,36 @@
+git-scm.com                                               > Git Download
+git --version                                             > To chekc Git Version
+git init
+git config --global user.name "shakir-ahmad"
+git config --global user.email "shakirahmad84@gmail.com"
+git config user.name "shakir-ahmad"
+git config user.email "shakirahmad84@gmail.com"
+git config user.name
+git config user.email
+git status
+git add filename.txt
+git add --all
+git add .
+git commit -m "Comment Will Goes Here"
+git log
+git log --oneline
+git checkout fac6322
+git checkout main
+git branch table-version
+q
+git branch
+git status
+git checkout table-version
+git checkout -b table-version-new
+git add .
+git commit -m "Table Added"
+git checkout main
+git branch -D table-version-new
+git merge table-version
+git diff 233j333 fac6322
+git branch -M master
+git remote add origin https://github.com/shakirahmad84/learning-git.git
+git push -u origin master
+
+
+
